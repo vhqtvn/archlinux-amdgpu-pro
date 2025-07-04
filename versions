@@ -1,8 +1,8 @@
 # This file is interpreted by both python and bash
 
-pkgver_base="25.10.1"
-pkgver_build="2125449"
-ubuntu_ver="24.04"
+pkgver_base="25.10"
+pkgver_build="2165407"
+ubuntu_ver="22.04"
 repo_folder_ver="6.4.1"
 
 # Old version is specified for use in extract_transaction_scripts_and_triggers.sh
